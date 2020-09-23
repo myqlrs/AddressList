@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -15,6 +18,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1hIYfm6LhXxK4s6M3n7fejwjS2O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,6 +42,37 @@
       <recent name="D:\IDEA_Project\AddressList" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.login" />
+      <module name="AddressList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.login" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,6 +85,7 @@
       <workItem from="1600766763256" duration="2391000" />
       <workItem from="1600785234817" duration="50000" />
       <workItem from="1600868629921" duration="401000" />
+      <workItem from="1600869299873" duration="385000" />
     </task>
     <servers />
   </component>
@@ -57,14 +93,22 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="223" y="87" width="1089" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600869676947">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" width="1089" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1600869676947" />
     <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1600869289224">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1600869289224" />
-    <state x="633" y="329" key="Github.ShareDialog" timestamp="1600868980183">
+    <state x="633" y="329" key="Github.ShareDialog" timestamp="1600869534365">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="633" y="329" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1600868980183" />
+    <state x="633" y="329" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1600869534365" />
+    <state x="566" y="136" key="Github.UntrackedFilesDialog" timestamp="1600869549378">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="566" y="136" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1600869549378" />
     <state x="599" y="223" key="svn.repositoryBrowser" timestamp="1600868926847">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
